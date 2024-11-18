@@ -23,6 +23,8 @@ dependencies:
     path: map_search
   map_with_custom_style:
     path: map_with_custom_style
+  map_offline:
+    path: map_offline
 
 dev_dependencies:
   flutter_test:

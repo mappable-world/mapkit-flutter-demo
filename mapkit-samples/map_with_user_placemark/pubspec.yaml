@@ -36,9 +36,8 @@ dependencies:
   cupertino_icons: ^1.0.2
 
   permission_handler: ^11.0.1
-  rxdart: ^0.28.0
+  rxdart: ^0.27.7
 
-  mappable_maps_mapkit: 4.7.2-beta4
   common:
     path: ../common
   flutter_dotenv: ^5.1.0
@@ -52,7 +51,7 @@ dev_dependencies:
   # activated in the `analysis_options.yaml` file located at the root of your
   # package. See that file for information about deactivating specific lint
   # rules and activating additional ones.
-  flutter_lints: ^4.0.0
+  flutter_lints: ^2.0.0
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
