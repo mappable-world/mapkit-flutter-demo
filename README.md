@@ -30,7 +30,7 @@ There are two projects in the repository:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.world/mappable/mapkit-flutter-demo.git
+    git clone https://github.com/mappable-world/mapkit-flutter-demo.git
     ```
 
 2. Each demo application require __API key__. To obtain __API key__ follow the following informations:

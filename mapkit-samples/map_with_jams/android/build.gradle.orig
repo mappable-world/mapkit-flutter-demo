@@ -2,11 +2,13 @@ allprojects {
     repositories {
         google()
         mavenCentral()
+        flatDir {
+            dirs '../../../mappable_maps/android/libs'
+        }
     }
 }
 
 rootProject.buildDir = '../build'
-
 subprojects {
     project.buildDir = "${rootProject.buildDir}/${project.name}"
 }
