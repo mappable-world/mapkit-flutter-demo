@@ -17,7 +17,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  mappable_maps_navikit: 4.14.0-beta
+  mappable_maps_navikit: 4.14.1-beta
     # When depending on this package from a real application you should use:
     #   mappable_maps: ^x.y.z
     # See https://dart.dev/tools/pub/dependencies#version-constraints
